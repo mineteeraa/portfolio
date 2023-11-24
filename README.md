@@ -1,8 +1,10 @@
-# React + Vite
+# Patteera's Portfolio🎉
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My personal portfolio website ([patteera-mu-portfolio.netlify.app](https://patteera-mu-portfolio.netlify.app/)) was built using these technologies.✨
 
-Currently, two official plugins are available:
+* React.js
+* CSS
+* JavaScript
+* Ant Design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![](src/assets/images/project_portfolio.png)
